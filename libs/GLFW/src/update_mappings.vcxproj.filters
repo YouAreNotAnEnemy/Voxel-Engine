@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\C++\Vulkan-Pilz\CMakeFiles\c38ef45d1e5a67ca9ad871c5439493b1\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{427FF3FA-DF1B-38A7-8527-4D6D6AF7C1EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{24ABB203-8A59-3DE5-84FC-8C81BC90B56B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

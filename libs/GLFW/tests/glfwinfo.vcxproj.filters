@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\tests\glfwinfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\deps\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\deps\glad_gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\deps\glad_vulkan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\deps\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\deps\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\deps\glad\vulkan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\C++\Vulkan-Pilz\libs\glfw\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{24ABB203-8A59-3DE5-84FC-8C81BC90B56B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A056F18C-156E-3267-B8FF-D4DA9F7C2DE2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
